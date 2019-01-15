@@ -1,0 +1,73 @@
+a:3:{s:4:"mods";a:88:{s:18:"custom_css_post_id";i:25;s:15:"body_typography";a:3:{s:11:"font-family";s:4:"Lato";s:9:"font-size";s:2:"15";s:5:"color";s:7:"#444444";}s:23:"ocean_page_header_style";s:16:"centered-minimal";s:16:"ocean_top_bar_bg";s:7:"#ffb200";s:26:"ocean_top_bar_border_color";s:7:"#efa805";s:24:"ocean_top_bar_text_color";s:7:"#333333";s:24:"ocean_top_bar_link_color";s:7:"#333333";s:21:"ocean_top_bar_content";s:159:"<i class="icon-phone" style="margin: 0 7px 0 0"></i> 1-555-645-324 <i class="icon-location-pin" style="margin: 0 7px"></i><a href="contact-us//">Contact Us</a>";s:19:"top_menu_typography";a:1:{s:11:"font-family";s:0:"";}s:18:"ocean_header_style";s:6:"medium";s:30:"ocean_has_header_border_bottom";b:0;s:31:"ocean_medium_header_hidden_menu";b:0;s:30:"ocean_medium_header_stick_menu";b:1;s:33:"ocean_medium_header_top_header_bg";s:7:"#ffb200";s:27:"ocean_medium_header_menu_bg";s:7:"#f7ac00";s:17:"ocean_menu_social";b:1;s:26:"ocean_menu_social_profiles";a:6:{s:7:"twitter";s:1:"#";s:8:"facebook";s:1:"#";s:10:"googleplus";s:1:"#";s:9:"pinterest";s:0:"";s:9:"instagram";s:1:"#";s:7:"youtube";s:1:"#";}s:29:"ocean_menu_social_links_color";s:7:"#7c5600";s:35:"ocean_menu_social_hover_links_color";s:7:"#333333";s:29:"ocean_medium_header_search_bg";s:7:"#f1a800";s:45:"ocean_medium_header_search_button_hover_color";s:7:"#7c5600";s:21:"ocean_menu_arrow_down";b:0;s:30:"ocean_menu_dropdown_top_border";b:0;s:18:"nav_menu_locations";a:2:{s:9:"main_menu";i:15;s:11:"topbar_menu";i:0;}s:27:"ocean_woo_menu_icon_display";s:8:"disabled";s:21:"ocean_menu_link_color";s:7:"#674801";s:27:"ocean_menu_link_color_hover";s:7:"#674801";s:28:"ocean_menu_link_color_active";s:7:"#555555";s:32:"ocean_menu_link_hover_background";s:7:"#ffffff";s:15:"menu_typography";a:1:{s:11:"font-family";s:0:"";}s:31:"sidebar_widget_title_typography";a:1:{s:9:"font-size";s:2:"11";}s:23:"ocean_footer_background";s:7:"#f9f9f9";s:29:"ocean_footer_link_color_hover";s:7:"#ffb200";s:23:"ocean_footer_link_color";s:7:"#333333";s:20:"ocean_footer_borders";s:7:"#e0e0e0";s:18:"ocean_footer_color";s:7:"#333333";s:36:"ocean_bottom_footer_link_color_hover";s:7:"#13aff0";s:19:"ocean_primary_color";s:7:"#ffb200";s:25:"ocean_hover_primary_color";s:7:"#333333";s:25:"ocean_bottom_footer_color";s:7:"#333333";s:30:"ocean_bottom_footer_link_color";s:7:"#333333";s:30:"ocean_bottom_footer_background";s:7:"#f9f9f9";s:27:"ocean_footer_copyright_text";s:507:"<div class="oceanwp-row clr">
+<div class="span_1_of_2 col col-1">
+<ul class="footer-payment-icons">
+<li><i class="fa fa-cc-amex"></i></li>
+<li><i class="fa fa-cc-mastercard"></i></li>
+<li><i class="fa fa-cc-diners-club"></i></li>
+<li><i class="fa fa-cc-discover"></i></li>
+<li><i class="fa fa-cc-paypal"></i></li>
+<li><i class="fa fa-cc-stripe"></i></li>
+<li><i class="fa fa-cc-visa"></i></li>
+</ul>
+</div>
+
+<div class="span_1_of_2 col col-2">© Copyright [oceanwp_date] - OceanWP Theme by Nick</div>
+</div>";s:18:"ofc_callout_button";b:0;s:14:"ofc_callout_bg";s:7:"#f6f6f6";s:18:"ofc_callout_border";s:7:"#f6f6f6";s:17:"ofc_callout_color";s:7:"#333333";s:23:"ofc_callout_links_color";s:7:"#333333";s:33:"ocean_top_bar_social_alt_template";s:2:"28";s:26:"ocean_main_container_width";s:4:"1240";s:30:"ocean_top_bar_link_color_hover";s:7:"#000000";s:30:"footer_widget_title_typography";a:1:{s:5:"color";s:7:"#000000";}s:20:"ofc_callout_template";s:2:"36";s:23:"ofc_callout_top_padding";s:2:"15";s:26:"ofc_callout_bottom_padding";s:2:"15";s:23:"ocean_input_top_padding";s:2:"14";s:25:"ocean_input_right_padding";s:2:"15";s:26:"ocean_input_bottom_padding";s:2:"14";s:24:"ocean_input_left_padding";s:2:"15";s:21:"ocean_input_font_size";s:2:"12";s:25:"ocean_input_border_radius";s:1:"2";s:28:"ocean_input_top_border_width";s:1:"1";s:30:"ocean_input_right_border_width";s:1:"1";s:31:"ocean_input_bottom_border_width";s:1:"3";s:29:"ocean_input_left_border_width";s:1:"1";s:22:"ocean_input_background";s:7:"#f9f9f9";s:30:"ocean_input_border_color_focus";s:7:"#ffb200";s:24:"ocean_input_border_color";s:7:"#eeeeee";s:21:"page_title_typography";a:1:{s:9:"font-size";s:2:"24";}s:11:"custom_logo";i:60;s:17:"ocean_retina_logo";s:70:"https://jewelry.oceanwp.org/wp-content/uploads/2017/08/retina-logo.png";s:17:"ocean_logo_height";s:2:"46";s:19:"headings_typography";a:1:{s:11:"font-family";s:17:"Libre Baskerville";}s:37:"ocean_woocommerce_tablet_shop_columns";s:1:"2";s:35:"ocean_footer_widgets_tablet_columns";s:1:"2";s:23:"ocean_mobile_menu_style";s:8:"dropdown";s:37:"ocean_dropdown_mobile_menu_max_height";s:3:"500";s:17:"owp_popup_display";s:10:"switch-two";s:22:"owp_popup_checkmark_bg";s:7:"#ffb200";s:28:"owp_popup_continue_btn_color";s:7:"#ffb200";s:35:"owp_popup_continue_btn_border_color";s:7:"#ffb200";s:31:"owp_popup_continue_btn_hover_bg";s:7:"#ffb200";s:41:"owp_popup_continue_btn_hover_border_color";s:7:"#ffb200";s:34:"owp_popup_continue_btn_hover_color";s:7:"#674801";s:21:"osh_has_sticky_topbar";b:1;s:24:"osh_shrink_header_height";s:2:"54";s:23:"ocean_menu_search_style";s:8:"disabled";s:30:"ocean_woo_display_floating_bar";s:3:"off";}s:7:"options";a:88:{s:18:"custom_css_post_id";i:25;s:15:"body_typography";a:3:{s:11:"font-family";s:4:"Lato";s:9:"font-size";s:2:"15";s:5:"color";s:7:"#444444";}s:23:"ocean_page_header_style";s:16:"centered-minimal";s:16:"ocean_top_bar_bg";s:7:"#ffb200";s:26:"ocean_top_bar_border_color";s:7:"#efa805";s:24:"ocean_top_bar_text_color";s:7:"#333333";s:24:"ocean_top_bar_link_color";s:7:"#333333";s:21:"ocean_top_bar_content";s:159:"<i class="icon-phone" style="margin: 0 7px 0 0"></i> 1-555-645-324 <i class="icon-location-pin" style="margin: 0 7px"></i><a href="contact-us//">Contact Us</a>";s:19:"top_menu_typography";a:1:{s:11:"font-family";s:0:"";}s:18:"ocean_header_style";s:6:"medium";s:30:"ocean_has_header_border_bottom";b:0;s:31:"ocean_medium_header_hidden_menu";b:0;s:30:"ocean_medium_header_stick_menu";b:1;s:33:"ocean_medium_header_top_header_bg";s:7:"#ffb200";s:27:"ocean_medium_header_menu_bg";s:7:"#f7ac00";s:17:"ocean_menu_social";b:1;s:26:"ocean_menu_social_profiles";a:6:{s:7:"twitter";s:1:"#";s:8:"facebook";s:1:"#";s:10:"googleplus";s:1:"#";s:9:"pinterest";s:0:"";s:9:"instagram";s:1:"#";s:7:"youtube";s:1:"#";}s:29:"ocean_menu_social_links_color";s:7:"#7c5600";s:35:"ocean_menu_social_hover_links_color";s:7:"#333333";s:29:"ocean_medium_header_search_bg";s:7:"#f1a800";s:45:"ocean_medium_header_search_button_hover_color";s:7:"#7c5600";s:21:"ocean_menu_arrow_down";b:0;s:30:"ocean_menu_dropdown_top_border";b:0;s:18:"nav_menu_locations";a:2:{s:9:"main_menu";i:15;s:11:"topbar_menu";i:0;}s:27:"ocean_woo_menu_icon_display";s:8:"disabled";s:21:"ocean_menu_link_color";s:7:"#674801";s:27:"ocean_menu_link_color_hover";s:7:"#674801";s:28:"ocean_menu_link_color_active";s:7:"#555555";s:32:"ocean_menu_link_hover_background";s:7:"#ffffff";s:15:"menu_typography";a:1:{s:11:"font-family";s:0:"";}s:31:"sidebar_widget_title_typography";a:1:{s:9:"font-size";s:2:"11";}s:23:"ocean_footer_background";s:7:"#f9f9f9";s:29:"ocean_footer_link_color_hover";s:7:"#ffb200";s:23:"ocean_footer_link_color";s:7:"#333333";s:20:"ocean_footer_borders";s:7:"#e0e0e0";s:18:"ocean_footer_color";s:7:"#333333";s:36:"ocean_bottom_footer_link_color_hover";s:7:"#13aff0";s:19:"ocean_primary_color";s:7:"#ffb200";s:25:"ocean_hover_primary_color";s:7:"#333333";s:25:"ocean_bottom_footer_color";s:7:"#333333";s:30:"ocean_bottom_footer_link_color";s:7:"#333333";s:30:"ocean_bottom_footer_background";s:7:"#f9f9f9";s:27:"ocean_footer_copyright_text";s:507:"<div class="oceanwp-row clr">
+<div class="span_1_of_2 col col-1">
+<ul class="footer-payment-icons">
+<li><i class="fa fa-cc-amex"></i></li>
+<li><i class="fa fa-cc-mastercard"></i></li>
+<li><i class="fa fa-cc-diners-club"></i></li>
+<li><i class="fa fa-cc-discover"></i></li>
+<li><i class="fa fa-cc-paypal"></i></li>
+<li><i class="fa fa-cc-stripe"></i></li>
+<li><i class="fa fa-cc-visa"></i></li>
+</ul>
+</div>
+
+<div class="span_1_of_2 col col-2">© Copyright [oceanwp_date] - OceanWP Theme by Nick</div>
+</div>";s:18:"ofc_callout_button";b:0;s:14:"ofc_callout_bg";s:7:"#f6f6f6";s:18:"ofc_callout_border";s:7:"#f6f6f6";s:17:"ofc_callout_color";s:7:"#333333";s:23:"ofc_callout_links_color";s:7:"#333333";s:33:"ocean_top_bar_social_alt_template";s:2:"28";s:26:"ocean_main_container_width";s:4:"1240";s:30:"ocean_top_bar_link_color_hover";s:7:"#000000";s:30:"footer_widget_title_typography";a:1:{s:5:"color";s:7:"#000000";}s:20:"ofc_callout_template";s:2:"36";s:23:"ofc_callout_top_padding";s:2:"15";s:26:"ofc_callout_bottom_padding";s:2:"15";s:23:"ocean_input_top_padding";s:2:"14";s:25:"ocean_input_right_padding";s:2:"15";s:26:"ocean_input_bottom_padding";s:2:"14";s:24:"ocean_input_left_padding";s:2:"15";s:21:"ocean_input_font_size";s:2:"12";s:25:"ocean_input_border_radius";s:1:"2";s:28:"ocean_input_top_border_width";s:1:"1";s:30:"ocean_input_right_border_width";s:1:"1";s:31:"ocean_input_bottom_border_width";s:1:"3";s:29:"ocean_input_left_border_width";s:1:"1";s:22:"ocean_input_background";s:7:"#f9f9f9";s:30:"ocean_input_border_color_focus";s:7:"#ffb200";s:24:"ocean_input_border_color";s:7:"#eeeeee";s:21:"page_title_typography";a:1:{s:9:"font-size";s:2:"24";}s:11:"custom_logo";i:60;s:17:"ocean_retina_logo";s:70:"https://jewelry.oceanwp.org/wp-content/uploads/2017/08/retina-logo.png";s:17:"ocean_logo_height";s:2:"46";s:19:"headings_typography";a:1:{s:11:"font-family";s:17:"Libre Baskerville";}s:37:"ocean_woocommerce_tablet_shop_columns";s:1:"2";s:35:"ocean_footer_widgets_tablet_columns";s:1:"2";s:23:"ocean_mobile_menu_style";s:8:"dropdown";s:37:"ocean_dropdown_mobile_menu_max_height";s:3:"500";s:17:"owp_popup_display";s:10:"switch-two";s:22:"owp_popup_checkmark_bg";s:7:"#ffb200";s:28:"owp_popup_continue_btn_color";s:7:"#ffb200";s:35:"owp_popup_continue_btn_border_color";s:7:"#ffb200";s:31:"owp_popup_continue_btn_hover_bg";s:7:"#ffb200";s:41:"owp_popup_continue_btn_hover_border_color";s:7:"#ffb200";s:34:"owp_popup_continue_btn_hover_color";s:7:"#674801";s:21:"osh_has_sticky_topbar";b:1;s:24:"osh_shrink_header_height";s:2:"54";s:23:"ocean_menu_search_style";s:8:"disabled";s:30:"ocean_woo_display_floating_bar";s:3:"off";}s:6:"wp_css";s:1906:"/* Red button blog item in menu */
+#site-navigation-wrap .dropdown-menu > li.red-item > a { background-color: #f13838 !important; color: #fff; }
+#site-navigation-wrap .dropdown-menu > li.red-item > a:hover { background-color: #ff4a4a !important; color: #fff; }
+
+/* Homepage custom titles style */
+.inline-title .elementor-widget-container { display: inline-block; }
+.inline-title .elementor-widget-container h2 { position: relative; }
+.inline-title .elementor-widget-container h2:before, .inline-title .elementor-widget-container h2:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 6px;
+    height: 6px;
+    margin-top: -4px;
+    background-color: #ffb200;
+    border-radius: 50%;
+    visibility: visible;
+}
+.inline-title .elementor-widget-container h2:before {
+    left: -22px;
+}
+.inline-title .elementor-widget-container h2:after {
+    right: -22px;
+}
+
+/* Footer bottom */
+#footer-bottom { padding: 0; }
+#footer-bottom-inner { padding: 30px 0 10px; border-top: 1px solid #eee; }
+#footer-bottom #copyright .col-1 { text-align: left; }
+#footer-bottom #copyright .col-2 { padding-top: 10px; text-align: right; }
+#footer-bottom .footer-payment-icons { list-style: none; padding: 0; margin: 0; }
+#footer-bottom .footer-payment-icons li { float: left; color: #222; font-size: 30px; padding-right: 15px; }
+#footer-bottom .footer-payment-icons li:last-child { padding-right: 0; }
+
+/* Responsive */
+@media only screen and (max-width: 959px) {
+    #footer-bottom .footer-payment-icons li { padding-right: 10px; }
+}
+@media only screen and (max-width: 768px) {
+	body .elementor .elementor-element.home-banner { background-image: none; }
+}
+@media only screen and (max-width: 767px) {
+    #footer-bottom .footer-payment-icons, #footer-bottom #copyright .col-2 { text-align: center; }
+    #footer-bottom .footer-payment-icons li { float: none; display: inline-block;     padding-right: 6px; }
+}";}

@@ -1,3 +1,32 @@
+= 1.0.10 =
+- Added: New demo, Hairdresser: https://hairdresser.oceanwp.org/
+- Added: New demo, Pizza: https://pizza.oceanwp.org/
+- Added: New demo, SEO Consulting: https://consulting.oceanwp.org/
+- Added: New demo, Skate: https://skate.oceanwp.org/
+- Added: New demo, Veggie: https://veggie.oceanwp.org/
+- Added: New demo, Nails: https://nails.oceanwp.org/
+- Added: New demo, Make Up Artist: https://makeup.oceanwp.org/
+- Added: New demo, Skyscraper: https://skyscraper.oceanwp.org/
+- Added: New demo, Tech: https://tech.oceanwp.org/
+- Added: New demo, Portfolio: https://portfolio.oceanwp.org/
+- Added: New demo, Interior Design: https://interior.oceanwp.org/
+- Added: New demo, Surfing: https://surfing.oceanwp.org/
+- Added: New demo, Service: https://service.oceanwp.org/
+- Added: New demo, Music: https://music.oceanwp.org/
+- Added: New demo, Photo: https://photo.oceanwp.org/
+- Added: New demo, Cycle: https://cycle.oceanwp.org/
+- Added: New demo, Agency: https://agency.oceanwp.org/
+- Added: New demo, Charity: https://charity.oceanwp.org/
+- Added: New demo, Fitness: https://fitness.oceanwp.org/
+- Added: New demo, Inspire: https://inspire.oceanwp.org/
+- Added: New demo, Design: https://design.oceanwp.org/
+- Added: New demo, Style: https://style.oceanwp.org/
+- Added: New demo, Learn: https://learn.oceanwp.org/
+- Added: New demo, Simple Blog: https://simpleblog.oceanwp.org/
+- Added: New demo, Street Food: https://streetfood.oceanwp.org/
+- Added: New setting to import the contact form.
+- Fixed: Import issue with the contact form of the demos.
+
 = 1.0.9 =
 - Added: New demo, Barber Shop: https://barber.oceanwp.org/
 - Added: New demo, Bright Homes: https://bright.oceanwp.org/
